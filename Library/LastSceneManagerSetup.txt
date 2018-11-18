@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/single player game scene.unity
+  isLoaded: 1
+  isActive: 1
